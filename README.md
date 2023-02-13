@@ -8,4 +8,4 @@ My first C++ project built on my own. Strictly for learning purposes.
 
 -Built with QT Designer and connected with C++
 
--Implemented Mersenne Twister algorithm with normal int distribution
+-Implemented Mersenne Twister algorithm with uniform int distribution
